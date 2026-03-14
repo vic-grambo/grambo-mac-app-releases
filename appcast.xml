@@ -7,6 +7,28 @@
         
        
         <!-- Version 1.7 - Build 19 -->
+        <!-- Version 1.8 - Build 20 -->
+    <item>
+        <title>Version 1.8</title>
+        <pubDate>Sun, 15 Mar 2026 02:47:30 +0530</pubDate>
+        <sparkle:version>20</sparkle:version>
+        <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+            <h2>What's New in Version 1.8</h2>
+            <ul>
+                <li>Update release notes here</li>
+            </ul>
+        ]]></description>
+        <enclosure 
+            url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.8/Grambo-v1.8.dmg"
+            sparkle:edSignature="IdS9NOP9BmqXaw7/lr5bfkASxOT2oIk9VsPI0BkbeDH2EXUYAkb3X97pu+dcExzTNVm1eB0MF146ZxeNBi9eCQ=="
+            length="4062639"
+            type="application/octet-stream"
+        />
+    </item>
+
+
     <item>
         <title>Version 1.7</title>
         <pubDate>Sun, 15 Mar 2026 02:17:32 +0530</pubDate>
