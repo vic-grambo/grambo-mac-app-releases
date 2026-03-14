@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Grambo Updates</title>
+        <link>https://raw.githubusercontent.com/vic-grambo/grambo-mac-app-releases/main/appcast.xml</link>
+        <description>Grambo App Updates</description>
+        
+       
+    <item>
+        <title>Version 1.6</title>
+        <pubDate>Thu, 05 Mar 2026 22:09:55 +0530</pubDate>
+        <sparkle:version>18</sparkle:version>
+        <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+            <h2>What's New in Version 1.6</h2>
+            <ul>
+                <li>Sound Notifications</li>
+                <li>Sound Notifications Settings Section</li>
+            </ul>
+        ]]></description>
+        <enclosure 
+            url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.6/Grambo-v1.6.dmg"
+            sparkle:edSignature="efV5Mb9LsH9T3bcdEv+zyRJb8hJ/Pjl2NOqocu0f7MM9uts4y0mlqCgjSLG6dq9mFHMOo+zesPkiboh+sqHnBQ=="
+            length="2717200"
+            type="application/octet-stream"
+        />
+    </item>
+
+
+    </channel>
+</rss>
