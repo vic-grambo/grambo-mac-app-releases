@@ -6,6 +6,28 @@
         <description>Grambo App Updates</description>
         
        
+        <!-- Version 1.9 - Build 21 -->
+    <item>
+        <title>Version 1.9</title>
+        <pubDate>Mon, 16 Mar 2026 19:55:54 +0530</pubDate>
+        <sparkle:version>21</sparkle:version>
+        <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+            <h2>What's New in Version 1.9</h2>
+            <ul>
+                <li>Update release notes here</li>
+            </ul>
+        ]]></description>
+        <enclosure 
+            url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.9/Grambo-v1.9.dmg"
+            sparkle:edSignature="0020UAEyMc+qsMuFl4s/+HMsHcM6QuWrKeFjGSi5/F7vW5Ke1RdbIi+PiwvN6TTchG5dUU2pSaWyTaC3oPUSDg=="
+            length="4062724"
+            type="application/octet-stream"
+        />
+    </item>
+
+
     <item>
         <title>Version 1.6</title>
         <pubDate>Thu, 05 Mar 2026 22:09:55 +0530</pubDate>
