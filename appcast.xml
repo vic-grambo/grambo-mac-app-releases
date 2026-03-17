@@ -5,49 +5,420 @@
         <link>https://raw.githubusercontent.com/vic-grambo/grambo-mac-app-releases/main/appcast.xml</link>
         <description>Grambo App Updates</description>
         
-       
+
         <!-- Version 1.9 - Build 21 -->
-    <item>
-        <title>Version 1.9</title>
-        <pubDate>Mon, 16 Mar 2026 19:55:54 +0530</pubDate>
-        <sparkle:version>21</sparkle:version>
-        <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
-        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-        <description><![CDATA[
-            <h2>What's New in Version 1.9</h2>
-            <ul>
-                <li>Bug fixes and improvements</li>
-            </ul>
-        ]]></description>
-        <enclosure 
-            url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.9/Grambo-v1.9.dmg"
-            sparkle:edSignature="0020UAEyMc+qsMuFl4s/+HMsHcM6QuWrKeFjGSi5/F7vW5Ke1RdbIi+PiwvN6TTchG5dUU2pSaWyTaC3oPUSDg=="
-            length="4062724"
-            type="application/octet-stream"
-        />
-    </item>
+        <item>
+            <title>Version 1.9</title>
+            <pubDate>Mon, 16 Mar 2026 19:55:54 +0530</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.9</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.9/Grambo-v1.9.dmg"
+                sparkle:edSignature="0020UAEyMc+qsMuFl4s/+HMsHcM6QuWrKeFjGSi5/F7vW5Ke1RdbIi+PiwvN6TTchG5dUU2pSaWyTaC3oPUSDg=="
+                length="4062724"
+                type="application/octet-stream"
+            />
+        </item>
 
+        <!-- Version 1.8 - Build 20 -->
+        <item>
+            <title>Version 1.8</title>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.8</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.8/Grambo-v1.8.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
 
-    <item>
-        <title>Version 1.6</title>
-        <pubDate>Thu, 05 Mar 2026 22:09:55 +0530</pubDate>
-        <sparkle:version>18</sparkle:version>
-        <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
-        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-        <description><![CDATA[
-            <h2>What's New in Version 1.6</h2>
-            <ul>
-                <li>Sound Notifications</li>
-                <li>Sound Notifications Settings Section</li>
-            </ul>
-        ]]></description>
-        <enclosure 
-            url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.6/Grambo-v1.6.dmg"
-            sparkle:edSignature="efV5Mb9LsH9T3bcdEv+zyRJb8hJ/Pjl2NOqocu0f7MM9uts4y0mlqCgjSLG6dq9mFHMOo+zesPkiboh+sqHnBQ=="
-            length="2717200"
-            type="application/octet-stream"
-        />
-    </item>
+        <!-- Version 1.7 - Build 19 -->
+        <item>
+            <title>Version 1.7</title>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.7</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.7/Grambo-v1.7.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.6 - Build 18 -->
+        <item>
+            <title>Version 1.6</title>
+            <pubDate>Thu, 05 Mar 2026 22:09:55 +0530</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.6</h2>
+                <ul>
+                    <li>Sound Notifications</li>
+                    <li>Sound Notifications Settings Section</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.6/Grambo-v1.6.dmg"
+                sparkle:edSignature="efV5Mb9LsH9T3bcdEv+zyRJb8hJ/Pjl2NOqocu0f7MM9uts4y0mlqCgjSLG6dq9mFHMOo+zesPkiboh+sqHnBQ=="
+                length="2717200"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.5.4 - Build 17 -->
+        <item>
+            <title>Version 1.5.4</title>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.5.4</h2>
+                <ul>
+                    <li>Minor bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.5.4/Grambo-v1.5.4.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.5.3 - Build 16 -->
+        <item>
+            <title>Version 1.5.3</title>
+            <pubDate>Sun, 22 Feb 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.5.3</h2>
+                <ul>
+                    <li>Minor bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.5.3/Grambo-v1.5.3.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.5.2 - Build 15 -->
+        <item>
+            <title>Version 1.5.2</title>
+            <pubDate>Tue, 04 Feb 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.5.2</h2>
+                <ul>
+                    <li>Customizable Keyboard Shortcuts</li>
+                    <li>Minor bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.5.2/Grambo-v1.5.2.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.5.1 - Build 14 -->
+        <item>
+            <title>Version 1.5.1</title>
+            <pubDate>Sun, 26 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.5.1</h2>
+                <ul>
+                    <li>Added debug logs</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.5.1/Grambo-v1.5.1.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.5.0 - Build 13 -->
+        <item>
+            <title>Version 1.5.0</title>
+            <pubDate>Sat, 25 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.5.0</h2>
+                <ul>
+                    <li>New onboarding screens</li>
+                    <li>Multiple local models</li>
+                    <li>More languages</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.5.0/Grambo-v1.5.0.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.4.3 - Build 12 -->
+        <item>
+            <title>Version 1.4.3</title>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.4.3</h2>
+                <ul>
+                    <li>Set tone for the text</li>
+                    <li>Settings improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.4.3/Grambo-v1.4.3.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.4.2 - Build 11 -->
+        <item>
+            <title>Version 1.4.2</title>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.4.2</h2>
+                <ul>
+                    <li>Grambo cloud</li>
+                    <li>Set language</li>
+                    <li>Improved license details view</li>
+                    <li>Settings improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.4.2/Grambo-v1.4.2.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.4.1 - Build 10 -->
+        <item>
+            <title>Version 1.4.1</title>
+            <pubDate>Sat, 17 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.4.1</h2>
+                <ul>
+                    <li>Local AI Model implementation</li>
+                    <li>Auto setup Local AI</li>
+                    <li>Grammar fix history</li>
+                    <li>Settings improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.4.1/Grambo-v1.4.1.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.4.0 - Build 9 -->
+        <item>
+            <title>Version 1.4.0</title>
+            <pubDate>Sat, 17 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.4.0</h2>
+                <ul>
+                    <li>Local AI Model implementation</li>
+                    <li>Auto setup Local AI</li>
+                    <li>Settings improvements</li>
+                    <li>Security improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.4.0/Grambo-v1.4.0.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.3.2 - Build 8 -->
+        <item>
+            <title>Version 1.3.2</title>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.3.2</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.3.2/Grambo-v1.3.2.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.3.1 - Build 7 -->
+        <item>
+            <title>Version 1.3.1</title>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.3.1</h2>
+                <ul>
+                    <li>Fixed update installer issues</li>
+                    <li>Properly configured app entitlements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.3.1/Grambo-v1.3.1.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.3 - Build 6 -->
+        <item>
+            <title>Version 1.3</title>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.3</h2>
+                <ul>
+                    <li>New monthly subscription</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.3/Grambo-v1.3.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.2.1 - Build 5 -->
+        <item>
+            <title>Version 1.2.1</title>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.2.1</h2>
+                <ul>
+                    <li>Improved settings page</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.2.1/Grambo-v1.2.1.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.2 - Build 4 -->
+        <item>
+            <title>Version 1.2</title>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.2</h2>
+                <ul>
+                    <li>Updated icon</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.2/Grambo-v1.2.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <!-- Version 1.1 - Build 3 -->
+        <item>
+            <title>Version 1.1</title>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Version 1.1</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v1.1/Grambo-v1.1.dmg"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
 
     </channel>
 </rss>
