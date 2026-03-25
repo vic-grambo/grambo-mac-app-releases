@@ -17,7 +17,8 @@
         <description><![CDATA[
             <h2>What's New in Version 1.9.1</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>Cloud api fix</li>
+                <li>Debug logs</li>
             </ul>
         ]]></description>
         <enclosure 
