@@ -5,9 +5,6 @@
         <link>https://raw.githubusercontent.com/vic-grambo/grambo-mac-app-releases/main/appcast.xml</link>
         <description>Grambo App Updates</description>
         
-
-        <!-- Version 1.9 - Build 21 -->
-            <!-- Version 1.9.1 - Build 22 -->
         <!-- Version 2.0 - Build 23 -->
     <item>
         <title>Version 2.0</title>
@@ -18,7 +15,9 @@
         <description><![CDATA[
             <h2>What's New in Version 2.0</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>New UI</li>
+                <li>New onboarding screens</li>
+                <li>Option to copy previous items</li>
             </ul>
         ]]></description>
         <enclosure 
