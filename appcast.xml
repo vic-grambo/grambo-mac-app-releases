@@ -17,7 +17,12 @@
         <description><![CDATA[
             <h2>What's New in Version 2.1.1</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>If you are currently running a version below v2.0, Please reinstall the application from the website</li>
+                <li>New UI</li>
+                <li>New onboarding screens</li>
+                <li>Option to copy previous items</li>
+                <li>New keyboard shortcuts with toggle</li>
+                <li>Bug fixes and improvements</li>
             </ul>
         ]]></description>
         <enclosure 
