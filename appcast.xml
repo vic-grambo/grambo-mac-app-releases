@@ -18,7 +18,8 @@
         <description><![CDATA[
             <h2>What's New in Version 2.2</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>Custom grammar fix prompts</li>
+                <li>Preferred names/words to remember</li>
             </ul>
         ]]></description>
         <enclosure 
