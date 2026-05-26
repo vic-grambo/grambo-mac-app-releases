@@ -19,7 +19,8 @@
         <description><![CDATA[
             <h2>What's New in Version 2.3</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>New history section in Settings</li>
+                <li>Comparison between the original text and the fixed text</li>
             </ul>
         ]]></description>
         <enclosure 
