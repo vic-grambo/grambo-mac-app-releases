@@ -23,7 +23,10 @@
         <description><![CDATA[
             <h2>What's New in Version 2.5</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>Comparison shortcut</li>
+                <li>New usage stats and Insights section</li>
+                <li>Help articles section</li>
+                <li>BYOK custom server URL section improvements</li>
             </ul>
         ]]></description>
         <enclosure 
