@@ -25,7 +25,10 @@
         <description><![CDATA[
             <h2>What's New in Version 2.6</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>Fix local AI issues</li>
+                <li>New insights section</li>
+                <li>One-click compare section access</li>
+                <li>A few bug fixes and improvements</li>
             </ul>
         ]]></description>
         <enclosure 
