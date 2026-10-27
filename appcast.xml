@@ -26,7 +26,8 @@
         <description><![CDATA[
             <h2>What's New in Version 2.6.1</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>Updated the models section for BYOK.</li>
+                <li>Added a new custom model under each BYOK service</li>
             </ul>
         ]]></description>
         <enclosure 
