@@ -17,6 +17,28 @@
         <!-- Version 2.5.1 - Build 32 -->
         <!-- Version 2.6 - Build 33 -->
         <!-- Version 2.6.1 - Build 34 -->
+        <!-- Version 2.6.2 - Build 35 -->
+    <item>
+        <title>Version 2.6.2</title>
+        <pubDate>Wed, 28 Oct 2026 13:27:43 +0530</pubDate>
+        <sparkle:version>35</sparkle:version>
+        <sparkle:shortVersionString>2.6.2</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+            <h2>What's New in Version 2.6.2</h2>
+            <ul>
+                <li>Update release notes here</li>
+            </ul>
+        ]]></description>
+        <enclosure 
+            url="https://github.com/vic-grambo/grambo-mac-app-releases/releases/download/v2.6.2/Grambo-v2.6.2.dmg"
+            sparkle:edSignature="UYR+QR79uCzFUVUXC9KMUaaImN6pEIFmHrn717Gq5AHPW39mX5rIDJeTJkEWW6I9FFE+nEaL86mLMFYoA0xKBA=="
+            length="4447599"
+            type="application/octet-stream"
+        />
+    </item>
+
+
     <item>
         <title>Version 2.6.1</title>
         <pubDate>Tue, 27 Oct 2026 13:13:42 +0530</pubDate>
